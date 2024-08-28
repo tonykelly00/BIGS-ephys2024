@@ -1,0 +1,6 @@
+install modules
+pip install umap
+pip install dandi
+pip install scanpy
+pip install ipfx
+
