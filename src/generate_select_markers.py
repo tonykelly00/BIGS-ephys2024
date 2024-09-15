@@ -30,13 +30,13 @@ def generate_SelectMarkers(gene_data, metadata):
     marker_genes = pd.DataFrame(adata.uns['rank_genes_groups']['names']).head(50)
 
     # # Save to CSV
-    marker_genes.to_csv('../downloads/select_markers.csv', index=False)
+    marker_genes.to_csv('../select_markers.csv', index=False)
 
 
 def generate_gene_umap(gene_data):
     #method1
     # Read the CSV file
-    marker_genes_for_umap = pd.read_csv("../downloads/select_markers.csv")
+    marker_genes_for_umap = pd.read_csv("../select_markers.csv")
 
     # Melt the DataFrame to have a single column of gene names
     marker_genes_for_umap = marker_genes_for_umap.melt(value_name="Gene").dropna()["Gene"]
