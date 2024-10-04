@@ -25,7 +25,7 @@ and the 60 t-types map onto 28 MET-type
 
 **Which catagorisation do you think more accurately reflects the data?**
 
-use the BIGSephys2024_colab.ipynb to start accessing and explore the data.<br>
+use the [BIGSephys2024_colab.ipynb](notebook\BIGS-ephys2024_colab.ipynb) to start accessing and explore the data.<br>
 open the jupyter notebook and select open in google colab.<br>
 run code windows and follow instructions.<br>
 
