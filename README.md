@@ -16,10 +16,10 @@ Lamp5 cells are typically late spiking and neuroglial-type morphology L1 canopy 
 Sncg cells are typically regular/adaptive firing with translaminar axonal innervation
 
 these cells map onto 60 transcriptomic clusters
-![alt text](<GABA classes-01.png>)
+![alt text](<figs/GABA classes-01.png>)
 
 and the 60 t-types map onto 28 MET-type
-![alt text](<GABA t-types to MET sub-classes-01.png>)
+![alt text](<figs/GABA t-types to MET sub-classes-01.png>)
 
 
 
