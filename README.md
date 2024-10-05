@@ -10,7 +10,7 @@ In short: what are different cell types and how to define them?
 GABAergic interneuron class catagorised into sub-classes based on morpho-electrophysiological features
 
 Pav cells are typically fast spiking with the canonnical example of perisomatic innervating basket cells.<br>
-Sst cells are typically regular/adaptive firing with dendritic innervation pattern example of Martinotti cells.<br>
+Sst cells are typically regular firing with dendritic innervation pattern example of Martinotti cells.<br>
 VIP cells are typically regular/adaptive firing radial projecting dendrites example of bipolar cells. <br>
 Lamp5 cells are typically late spiking and neuroglial-type morphology L1 canopy and non-classical synapses example of neurogliaform cells NPY <br>
 Sncg cells are typically regular/adaptive firing with translaminar axonal innervation

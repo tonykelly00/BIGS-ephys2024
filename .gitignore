@@ -1,1 +1,8 @@
+#.gitignore file created in main directory 
+#python .gitignore template https://github.com/github/gitignore/blob/main/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 downloads/
