@@ -21,11 +21,9 @@ these cells map onto 60 transcriptomic clusters
 and the 60 t-types map onto 28 MET-type
 ![alt text](<figs/GABA t-types to MET sub-classes-01.png>)
 
-
-
 **Which catagorisation do you think more accurately reflects the data?**
 
-use the [BIGSephys2024_colab.ipynb](notebook\BIGS-ephys2024_colab.ipynb) to start accessing and explore the data.<br>
+use the [BIGS-ephys2024.ipynb](notebook\BIGS-ephys2024.ipynb) to start accessing and explore the data.<br>
 open the jupyter notebook and select open in google colab.<br>
 run code windows and follow instructions.<br>
 
